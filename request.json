@@ -1,0 +1,9 @@
+{
+  "emergencyType": "CARDIUM",
+  "location": {
+    "lat": 12.34,
+    "lng": 56.78,
+    "address": "Test St"
+  },
+  "severityLevel": 1
+}
